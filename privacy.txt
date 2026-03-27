@@ -1,0 +1,1 @@
+This app does not collect or store user data. All processing happens locally
